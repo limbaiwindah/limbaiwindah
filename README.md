@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @limbaiwindah
 - 👀 I’m interested in ... books, coding, music and making things that will blend my technical and creative side.
-- 🌱 I’m currently learning ... C++, JS, strengthening my HTML and CSS knowledge (currently intermediate going to advanced level), and restoring my knowledge of python
+- 🌱 I’m currently learning ... JS, strengthening my HTML and CSS knowledge (currently intermediate going to advanced level), and restoring my knowledge of python
 - 💞️ I’m looking to collaborate on ... not looking for now :)
 - 📫 How to reach me ... windah.limbai.dev@outlook.com
 - 😄 Pronouns: ... she/her
